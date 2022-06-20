@@ -1,5 +1,5 @@
 # Descrição do Projeto utilizando Servlet
-Projeto feito com base no curso: Java Servlet: programação web Java 
+Projeto feito com base no curso: Java Servlet: programação web Java /n
 Neste projeto foi criado um CRUD de empresas utilizando Servlet
 
 # Observações
